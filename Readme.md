@@ -6,8 +6,6 @@ settings/serviceaccounts/adminsdk in firebase. It will download a json file.
 
 Paste this json file under resources' folder.
 
-![](/Users/faizanslamat/Desktop/Screenshot 2023-01-24 at 6.39.14 PM.png)
-
 Magic happens under FirebaseMessagingService
 
     Notification.Builder builder = Notification
